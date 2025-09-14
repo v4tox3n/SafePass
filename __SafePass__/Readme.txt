@@ -9,4 +9,3 @@ Para empezar a guardar contraseñas, deberás hacer click sobre el nombre en gra
 Al hacer click, se abrirá una nueva ventana donde se guardará la contraseña que quieras.
 
 Despúes de guardar una contraseña, deberás cerrar y volver a abrir la aplicación para que se actualicen los cambios.
-Tienes un video de ayuda (ayuda.mp4) en la misma carpeta donde se encuentra este archivo.
